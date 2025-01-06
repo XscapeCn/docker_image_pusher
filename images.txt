@@ -1,3 +1,4 @@
 teambraker/braker3:latest
 nvidia/cuda:12.6.0-base-ubuntu22.04
 cford38/alphafold3
+quay.io/comparative-genomics-toolkit/cactus:v2.9.3-gpu
